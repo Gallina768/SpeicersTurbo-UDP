@@ -22,10 +22,10 @@ PROTOCOL="udp"
 UDP_PORT=":36712"
 
 # OBFS
-OBFS="MAPTECH"
+OBFS="Apksdiablo"
 
 # PASSWORDS
-PASSWORD="MAPTECH"
+PASSWORD="Satanas666"
 
 # Basename of this script
 SCRIPT_NAME="$(basename "$0")"
